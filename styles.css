@@ -24,7 +24,6 @@
     display: flex;
     flex-direction: column;
     background: #FFFFFF;
-    gap: 1%;
 }
 
 .container {
